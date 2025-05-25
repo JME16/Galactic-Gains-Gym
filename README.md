@@ -1,8 +1,43 @@
-This project started as Super Hero Gym (hence departments start as SHG) and then changed to Galactic Gains Gym when I decided to employ Star Wars and Dragon Ball characters.
-My goal is to demonstrate my Linux admin skills with directories, files, privileges and other paperwork associated with each department.
+Galactic Gains Gym – Website Rollout Simulation
+A project management simulation built in Notion to align with the CompTIA Project+ (PK0-005) exam. Includes stakeholder coordination, project lifecycle documentation, change control scenarios, and marketing integration — all modeled through the launch of a fictional fitness brand’s online platform.
 
-I am open to suggestions and comments for improvements.
+📦 Project Goals
+Apply Project+ lifecycle concepts in a real-world context
 
-Thank you for taking the time to stop by and view!
+Showcase leadership and planning ability using a Notion-driven framework
+
+Integrate mock cross-departmental input, risk logs, and scheduling tools
+
+Simulate marketing and e-commerce functions (e.g., pro shop + shake preorders)
+
+📁 Project Components
+📋 Charter + Scope Statement
+
+🧑‍🤝‍🧑 Stakeholder Matrix & RACI Chart
+
+🛠 WBS + Milestone Schedule
+
+🔍 Risk Management Log + Pivot Plans
+
+📈 Marketing Plan & KPI Tracker
+
+💬 Change Control & Communication Plan
+
+✅ Final Delivery Review & Lessons Learned
+
+💡 Why It Matters
+This project demonstrates:
+
+Real-world understanding of the project management lifecycle
+
+Adaptability through “what-if” pivot scenarios
+
+The blending of technical, leadership, and communication skills
+
+Alignment with certification learning while producing tangible output
+
+🔗 Live Project (Notion Link Coming Soon)
+
+Thanks for visiting and if you have any questions - please reach out!
 
 Jamie
